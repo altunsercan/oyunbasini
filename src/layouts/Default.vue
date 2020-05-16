@@ -1,17 +1,32 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-      </nav>
-    </header>
-    <slot/>
+  <div>
+    <a href="#main">skip to content</a>
+    <!-- {{ partial "svg.html" . }} -->
+    <div class="wrapper">
+      <header class="intro-and-nav" role="banner">
+        <div>
+          <div class="intro">
+            <g-link class="logo" href="/">
+              <g-image src="https://via.placeholder.com/728x300.png?text=Oyun+Basını+Rehberi+Logo"></g-image>
+            </g-link>
+            <p class="library-desc">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper gravida egestas. Donec ultrices tempor turpis, id gravida mauris rutrum in.
+            </p>
+          </div>
+          <Nav/>
+        </div>
+      </header>
+      <div class="main-and-footer">
+        <div>
+          <slot/>
+          <!--{{ partial "footer.html" . }}-->
+        </div>
+      </div>
+    </div>
   </div>
 </template>
+
+
 
 <static-query>
 query {
@@ -22,29 +37,11 @@ query {
 </static-query>
 
 <style>
-body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
-}
 
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
-
-.nav__link {
-  margin-left: 20px;
-}
 </style>
+<script>
+  import Nav from "../components/Nav";
+  export default {
+    components: {Nav}
+  }
+</script>
