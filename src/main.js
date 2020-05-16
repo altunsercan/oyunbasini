@@ -7,13 +7,15 @@ export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
 
+  const siteRoot = router.resolve("/").href
+
   head.link.push({
     rel: 'stylesheet',
-    href: 'css/prism.css'
+    href: siteRoot +'css/prism.css'
   })
 
   head.link.push({
     rel: 'stylesheet',
-    href: 'css/template.css'
+    href: siteRoot + 'css/template.css'
   })
 }
