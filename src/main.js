@@ -18,4 +18,8 @@ export default function (Vue, { router, head, isClient }) {
     rel: 'stylesheet',
     href: siteRoot + 'css/template.css'
   })
+
+  head.script.push({
+    src: siteRoot + 'js/dom-scripts.js'
+  })
 }
