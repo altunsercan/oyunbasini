@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{162:function(n,t,e){"use strict";e.r(t);var a={metaInfo:{title:"Oyun Basını Rehberi"}},i=e(19),s=Object(i.a)(a,(function(){var n=this.$createElement,t=this._self._c||n;return t("Layout",[t("main",{attrs:{id:"main"}},[t("h1",[this._v("Oyun Basını Rehberi")]),t("p")])])}),[],!1,null,null,null);t.default=s.exports}}]);
