@@ -28,12 +28,8 @@ SOFTWARE.
 
 
 /* Fonts */
-@font-face {
-    font-family: 'Miriam Libre';
-    src: url("/css/fonts/miriamlibre-bold.woff2") format('woff2'), url("/css/fonts/miriamlibre-bold.woff") format('woff');
-    font-weight: bold;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Miriam+Libre:wght@400;700&display=swap');
+
 *,
 *::before,
 *::after {
