@@ -29,7 +29,7 @@
         Bu kısım oyununuzu pazarlamaya başladığınız ilk adım olacak. Kısa bir paragraf içerisinde oyununuzun türü, ana mekaniği, hangi oyunlara benzediği ve oyuncuların neden sizin oyununuzu oynaması gerektiğinden bahsedebilirsiniz. Bu metni hazırlarken çevrenizdeki kişilerden veya içinde bulunduğunuz topluluklardan geri bildirim almayı ihmal etmeyin. Ancak bu metni hazırlarken dengelemeniz gereken iki nokta vardır.
       </p>
       <p>
-        Açıklamanızın sıkıcı olmaması, ilk birkaç cümlede okuyanı yakalayıp oyun hakkında daha fazla bilgi almak için okumaya devam etmesini sağlaması gereklidir. Press kit’inizi yeni okumaya başlamış yazar, henüz oyununuz hakkında haber yapma kararını vermemiştir. Press kit’inizdeki metnin etkileyici olması hem yazarı ikna etmeniz için, hem de bu metin haberde kullanıldığında oyuncuyu ikna etmeniz için önemlidir.
+        Açıklamanızın sıkıcı olmaması, ilk birkaç cümlede okuyanı yakalayıp oyun hakkında daha fazla bilgi almak için okumaya devam etmesini sağlaması gereklidir. Press kitinizi yeni okumaya başlamış yazar, henüz oyununuz hakkında haber yapma kararını vermemiştir. Press kitinizdeki metnin etkileyici olması hem yazarı ikna etmeniz için, hem de bu metin haberde kullanıldığında oyuncuyu ikna etmeniz için önemlidir.
       </p>
       <p>
         Ancak metnin etkileyiciliğini arttırırken, “harika görseller”, “bağımlılık yaratıcı” gibi görüş bildiren terimler kullanmaktan kaçınılmalıdır. Bu metinler haberlere kopyalanacak da olsa, görüş sahibi haberin yazarıdır. Yazarın ağzından yazılmış metinler, basın mensupları tarafından kullanılmaz.
@@ -56,7 +56,7 @@
 
       <h2>Takımınız Ve Stüdyonuzun Geçmişi:</h2>
       <p>
-        Oyunlar insanlar tarafından yapılıyor! İnsana dokunan hikayelerin okuyucularda daha büyük etki yarattığı haberciliğin temelindedir. Oyun basını da aynı şekilde oyunu geliştiren ekiplerin kişisel hikayelerine ilgi duyar. Kendinizi ve stüdyonuzu tanıttığınız, ve oyun geliştirici olma hikayenizi paylaştığınız bir bölümün olması projenizi insanlaştırmak adına önemli. Aynı zamanda hakkınızda haber yapıldığında kullanılacak profesyonel gözüken kişisel fotoğraflarınızı Press Kit’inize ekleyebilirsiniz. Sonra fotoğraflarınızı Facebooktan bulmak zorunda kalmasınlar.
+        Oyunlar insanlar tarafından yapılıyor! İnsana dokunan hikayelerin okuyucularda daha büyük etki yarattığı haberciliğin temelindedir. Oyun basını da aynı şekilde oyunu geliştiren ekiplerin kişisel hikayelerine ilgi duyar. Kendinizi ve stüdyonuzu tanıttığınız, ve oyun geliştirici olma hikayenizi paylaştığınız bir bölümün olması projenizi insanlaştırmak adına önemli. Aynı zamanda hakkınızda haber yapıldığında kullanılacak profesyonel gözüken kişisel fotoğraflarınızı press kitinize ekleyebilirsiniz. Sonra fotoğraflarınızı Facebooktan bulmak zorunda kalmasınlar.
       </p>
 
       <h2>İletişim Bilgileri:</h2>
