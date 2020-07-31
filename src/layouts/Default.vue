@@ -10,7 +10,9 @@
               <g-image src="https://via.placeholder.com/728x300.png?text=Oyun+Basını+Rehberi+Logo"></g-image>
             </g-link>
             <p class="library-desc">
+              <!--
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper gravida egestas. Donec ultrices tempor turpis, id gravida mauris rutrum in.
+              -->
             </p>
           </div>
           <Nav/>
